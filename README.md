@@ -12,7 +12,7 @@ Hi, I'm **Kiril** 🙌 — a **Technical Solution Architect, Delivery Lead, and 
 I specialize in **SharePoint, .NET Framework, SPFx, and building scalable enterprise architectures**.  
 I thrive on turning complex requirements into secure, future-proof solutions that deliver measurable business impact.  
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://github.com/Sartor87/Sartor87/blob/main/SharePointArchitect.png" width="300"/>
 
 **Talking about Professional Stuffs:**  
 - 🔭 Architected enterprise portals for **Coca Cola Hellenic** and **BT competitor portal**  
@@ -36,7 +36,7 @@ I thrive on turning complex requirements into secure, future-proof solutions tha
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/sharepoint/sharepoint.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/19156602?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terraform/terraform.png"></code>
