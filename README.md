@@ -8,6 +8,8 @@
 <br/>
 <br/>
 
+** DISCLAIMER: ** Note that most of my repositories are private. I am glad to share them during an interview or opportunity.
+
 Hi, I'm **Kiril** 🙌 — a **Technical Solution Architect, Delivery Lead, and Product Strategist**.  
 I specialize in **SharePoint, .NET Framework, SPFx, and building scalable enterprise architectures**.  
 I thrive on turning complex requirements into secure, future-proof solutions that deliver measurable business impact.  
