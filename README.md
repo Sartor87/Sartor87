@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-** DISCLAIMER: ** Note that most of my repositories are private. I am glad to share them during an interview or opportunity.
+**DISCLAIMER:** Note that most of my repositories are private. I am glad to share them during an interview or opportunity.
 
 Hi, I'm **Kiril** 🙌 — a **Technical Solution Architect, Delivery Lead, and Product Strategist**.  
 I specialize in **SharePoint, .NET Framework, SPFx, and building scalable enterprise architectures**.  
